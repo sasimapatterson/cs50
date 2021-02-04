@@ -1,0 +1,5 @@
+1.Prompt user for input of height between 1-8
+2.If user input is not numbers or positive
+3.  Back to line 1.
+4.Else 
+5.Print the number.
